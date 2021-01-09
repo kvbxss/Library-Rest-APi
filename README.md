@@ -3,6 +3,7 @@
 
 # Creating a User
 <img src = "user.jpg">
+# ------------------
 <img src = "userkey.jpg">
 
 # Logging in
