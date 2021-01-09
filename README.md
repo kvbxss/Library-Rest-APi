@@ -5,7 +5,7 @@
 <img src = "user.jpg">
 
 # User Key
-<img src = "userkey.jpg">
+<img src = "user key.jpg">
 
 # Logging in
 <img src = "login.jpg">
